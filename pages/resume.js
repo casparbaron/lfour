@@ -54,7 +54,7 @@ const Resume = () => {
                 <Socials />
               </div>
               <div className="mt-5">
-                <h1 className="text-2xl font-bold">Experience</h1>
+                <h1 className="text-2xl font-bold">experience</h1>
 
                 {resume.experiences.map(
                   ({ id, dates, type, position, bullets }) => (
@@ -69,7 +69,7 @@ const Resume = () => {
                 )}
               </div>
               <div className="mt-5">
-                <h1 className="text-2xl font-bold">Education</h1>
+                <h1 className="text-2xl font-bold">education</h1>
                 <div className="mt-2">
                   <h2 className="text-lg">{resume.education.universityName}</h2>
                   <h3 className="text-sm opacity-75">
@@ -81,7 +81,7 @@ const Resume = () => {
                 </div>
               </div>
               <div className="mt-5">
-                <h1 className="text-2xl font-bold">Skills</h1>
+                <h1 className="text-2xl font-bold">skills</h1>
                 <div className="flex mob:flex-col desktop:flex-row justify-between">
                   {resume.languages && (
                     <div className="mt-2 mob:mt-5">
@@ -98,7 +98,7 @@ const Resume = () => {
 
                   {resume.frameworks && (
                     <div className="mt-2 mob:mt-5">
-                      <h2 className="text-lg">Frameworks</h2>
+                      <h2 className="text-lg">frameworks</h2>
                       <ul className="list-disc">
                         {resume.frameworks.map((framework, index) => (
                           <li key={index} className="ml-5 py-2">
@@ -111,7 +111,7 @@ const Resume = () => {
 
                   {resume.others && (
                     <div className="mt-2 mob:mt-5">
-                      <h2 className="text-lg">Others</h2>
+                      <h2 className="text-lg">others</h2>
                       <ul className="list-disc">
                         {resume.others.map((other, index) => (
                           <li key={index} className="ml-5 py-2">

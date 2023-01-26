@@ -47,7 +47,7 @@ const Edit = () => {
           imageSrc:
             "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
 
-          url: "http://chetanverma.com/",
+          url: "onlyblacklines.netlify.app",
         },
       ],
     });
@@ -104,7 +104,7 @@ const Edit = () => {
         {
           id: uuidv4(),
           title: "New Link",
-          link: "www.chetanverma.com",
+          link: "onlyblacklines.netlify.app",
         },
       ],
     });
@@ -153,7 +153,7 @@ const Edit = () => {
       <div className="mt-10">
         <div className={`${theme === "dark" ? "bg-transparent" : "bg-white"}`}>
           <div className="flex items-center justify-between">
-            <h1 className="text-4xl">Dashboard</h1>
+            <h1 className="text-4xl">dashboard</h1>
             <div className="flex items-center">
               <Button onClick={saveData} type="primary">
                 Save
@@ -204,7 +204,7 @@ const Edit = () => {
         {currentTabs === "HEADER" && (
           <div className="mt-10">
             <div className="flex items-center">
-              <label className="w-1/5 text-lg opacity-50">Name</label>
+              <label className="w-1/5 text-lg opacity-50">name</label>
               <input
                 value={data.name}
                 onChange={(e) => setData({ ...data, name: e.target.value })}
