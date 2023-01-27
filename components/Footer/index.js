@@ -8,15 +8,15 @@ const Footer = ({}) => {
     <>
       <div className="mt-5 laptop:mt-40 p-2 laptop:p-0">
         <div>
-          <h1 className="text-2xl text-bold">Contact.</h1>
+          <h1 className="text-2xl text-bold">kontakt</h1>
           <div className="mt-10">
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
-              LET&apos;S WORK
+              wir beraten  
             </h1>
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
-              TOGETHER
+              kostenfrei
             </h1>
-            <Button type="primary">Schedule a call</Button>
+            <Button type="primary">jetzt unverbindlich termin vereinbaren</Button>
             <div className="mt-10">
               <Socials />
             </div>
@@ -24,7 +24,7 @@ const Footer = ({}) => {
         </div>
       </div>
       <h1 className="text-sm text-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
-        made in berlin. madin with love by{" "}
+        design made in germany. <br></br>powered by{" "}
         <Link href="onlyblacklines.netlify.app">
           <a className="underline underline-offset-1">onlyblacklines</a>
         </Link>

@@ -1,1 +1,71 @@
-{"name":"onlyblacklines","headerTaglineOne":"","headerTaglineTwo":"","headerTaglineThree":"","headerTaglineFour":"we create websites for artists","showBlog":false,"darkMode":false,"socials":[{"id":"1","title":"Github","link":"https://github.com/onlyblacklines"},{"id":"2","title":"Instagram","link":"https://www.instagram.com/onlyblacklines/"},{"id":"3","title":"Email","link":"mailto:casparbaron@gmail.com"}],"projects":[{"id":"1","title":"Bittensor","description":"programming art","imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068197516992057444/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__9e29a4ff-b5f9-401d-89ac-df514a024f5e.png"},{"id":"2","title":"schafen architects","description":"Web Development","imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068197741546717326/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__05219f7d-9d4e-4436-bf5a-a785a90b0588.png"},{"id":"3","title":"ken cox artist","description":"Web Design","imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068199467012063352/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__41ee70df-e3c6-4cb1-b762-f80f6ea3c9e2.png"},{"id":"4","title":"LX4m","description":"branding","imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068197502110674995/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__1f039058-da3c-4372-bf44-fda29abf4fe4.png"},{"id":"5","title":"LX4m","description":"branding","imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068201545776246804/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__c5c8fa50-d964-4f56-8f26-52023d9e32fe.png"},{"id":"6","title":"LX4m","description":"branding","imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068201502453280878/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__067e7e90-7ec6-4272-adf9-2f0c11c7eaec.png"},{"id":"7","title":"LX4m","description":"branding","imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068201468332605440/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__34463f58-0020-4651-b32a-70434a0a5ba8.png"},{"id":"8","title":"LX4m","description":"branding","imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068197502110674995/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__1f039058-da3c-4372-bf44-fda29abf4fe4.png"}],"services":[{"id":"1","title":"Individuelle Bedarfsanalyse","description":"Im persönlichen Gespräch analysieren wir individuell mit Dir die Stärken Deines bestehenden Leistungsangebots."},{"id":"2","title":"Lösungsentwicklung","description":"Mit unserem technologieoffenen Entwicklungsansatz integrieren wir in Ihre Websiteumgebung moderne Drittanbieterwerkzeuge."},{"id":"3","title":"UX/UI","description":"Wir konzipieren ein strategisches Websitelayout und strukturieren Ihre Inhalte nutzerfreundlich für unterschiedliche Bildschirmgrößen."},{"id":"4","title":"Pflege","description":"Durch unsere Architekturexpertise stellen wir sicher, dass Ihre Architekturprojekte im besten Licht erstrahlen."}],"aboutpara":"Webdesign und Architektur zusammenbringen um die digitale und physische Welt den Menschen zur Verfügung stellen.","resume":{"tagline":"👋  we are architects, developers, product designer and makerter.","description":"we have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":["Worked on the frontend of a React application","Worked on the frontend of a React application"]},{"id":"2","dates":"March 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":["Worked on the frontend of a React application"]}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{"name":"onlyblacklines","headerTaglineOne":"",
+"headerTaglineTwo":"","headerTaglineThree":"",
+"headerTaglineFour":"wir bauen portfolios für künstler.",
+"showBlog":false,
+"darkMode":false,
+"socials":[
+  {"id":"1","title":"Github","link":"https://github.com/onlyblacklines"},
+  {"id":"2","title":"Instagram","link":"https://www.instagram.com/onlyblacklines/"},
+  {"id":"3","title":"Email","link":"mailto:casparbaron@gmail.com"}],
+  
+"projects":[
+  {
+    "id":"1",
+    "title":"tom saiger architects, lyon",
+    "description":"portfolio konzept",
+    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068197516992057444/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__9e29a4ff-b5f9-401d-89ac-df514a024f5e.png"},
+  {
+    "id":"2",
+    "title":"schafen architects, new york",
+    "description":"website entwicklung",
+    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068197741546717326/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__05219f7d-9d4e-4436-bf5a-a785a90b0588.png"},
+  {
+    "id":"3",
+    "title":"fool & feger, LA",
+    "description":"website entwicklung",
+    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068199467012063352/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__41ee70df-e3c6-4cb1-b762-f80f6ea3c9e2.png"},
+  {
+    "id":"4",
+    "title":"clark cheringston, paris",
+    "description":"website entwicklung",
+    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068197502110674995/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__1f039058-da3c-4372-bf44-fda29abf4fe4.png"},
+  {
+    "id":"5",
+    "title":"sercigal architects, lisbon",
+    "description":"portfolio konzept",
+    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068201502453280878/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__067e7e90-7ec6-4272-adf9-2f0c11c7eaec.png"},
+  {
+    "id":"6",
+    "title":"LX4m, chicago",
+    "description":"web entwicklung",
+    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068201468332605440/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__34463f58-0020-4651-b32a-70434a0a5ba8.png"}],
+
+"services":[
+  {
+    "id":"1",
+    "title":"Individuelle Bedarfsanalyse",
+    "description":"Im persönlichen Gespräch analysieren wir individuell mit Dir die Stärken Deines bestehenden Leistungsangebots."
+  },{
+    "id":"2",
+    "title":"Lösungsentwicklung",
+    "description":"Mit unserem technologieoffenen Entwicklungsansatz integrieren wir in Ihre Websiteumgebung moderne Drittanbieterwerkzeuge."
+  },{
+    "id":"3",
+    "title":"UX/UI",
+    "description":"Wir konzipieren ein strategisches Websitelayout und strukturieren Ihre Inhalte nutzerfreundlich für unterschiedliche Bildschirmgrößen."
+  },{
+    "id":"4",
+    "title":"Pflege",
+    "description":"Durch unsere Architekturexpertise stellen wir sicher, dass Ihre Architekturprojekte im besten Licht erstrahlen."
+  }],
+    
+"aboutpara":"wir kombinieren erfahrung in webentwicklung, design und architektur mit dem ziel ihre projekte bestmöglich zu präsentieren.",
+
+"resume":{
+  "tagline":"👋  we are architects, developers, product designer and makerter.",
+  "description":"we have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+
+"experiences":[{
+  "id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":["Worked on the frontend of a React application","Worked on the frontend of a React application"]},{"id":"2","dates":"March 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":["Worked on the frontend of a React application"]}],
+"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},
+"languages":["Javascript","HTML5","CSS","Python"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}

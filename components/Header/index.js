@@ -69,10 +69,10 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             >
               {!isBlog ? (
                 <div className="grid grid-cols-1">
-                  <Button onClick={handleWorkScroll}>Work</Button>
+                  <Button onClick={handleWorkScroll}>projekte</Button>
                   <Button onClick={handleAboutScroll}>About</Button>
                   {showBlog && (
-                    <Button onClick={() => router.push("/blog")}>Blog</Button>
+                    <Button onClick={() => router.push("/blog")}>über uns</Button>
                   )}
                   {showResume && (
                     <Button
@@ -87,7 +87,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button
                     onClick={() => window.open("mailto:casparbaron@gmail.com")}
                   >
-                    Contact
+                    kontakt
                   </Button>
                 </div>
               ) : (
@@ -110,7 +110,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button
                     onClick={() => window.open("mailto:casparbaron@gmail.com")}
                   >
-                    contact
+                    kontakt
                   </Button>
                 </div>
               )}
@@ -131,8 +131,8 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
         </h1>
         {!isBlog ? (
           <div className="flex">
-            <Button onClick={handleWorkScroll}>work</Button>
-            <Button onClick={handleAboutScroll}>about</Button>
+            <Button onClick={handleWorkScroll}>projekte</Button>
+            <Button onClick={handleAboutScroll}>über uns</Button>
             {showBlog && (
               <Button onClick={() => router.push("/blog")}>blog</Button>
             )}
@@ -146,7 +146,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
 
             <Button onClick={() => window.open("mailto:casparbaron@gmail.com")}>
-              contact
+              kontakt
             </Button>
             {mounted && theme && data.darkMode && (
               <Button
@@ -175,7 +175,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
 
             <Button onClick={() => window.open("mailto:casparbaron@gmail.com")}>
-              contact
+              Contact
             </Button>
 
             {mounted && theme && data.darkMode && (
