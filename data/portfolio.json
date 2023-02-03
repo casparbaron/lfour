@@ -13,32 +13,32 @@
     "id":"1",
     "title":"tom saiger architects, lyon",
     "description":"portfolio konzept",
-    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068197516992057444/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__9e29a4ff-b5f9-401d-89ac-df514a024f5e.png"},
+    "imageSrc":"/images/portfolio/1_onlyblacklines.png"},
   {
     "id":"2",
     "title":"schafen architects, new york",
     "description":"website entwicklung",
-    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068197741546717326/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__05219f7d-9d4e-4436-bf5a-a785a90b0588.png"},
+    "imageSrc":"/images/portfolio/2_onlyblacklines.png"},
   {
     "id":"3",
     "title":"fool & feger, LA",
     "description":"website entwicklung",
-    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068199467012063352/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__41ee70df-e3c6-4cb1-b762-f80f6ea3c9e2.png"},
+    "imageSrc":"/images/portfolio/3_onlyblacklines.png"},
   {
     "id":"4",
     "title":"clark cheringston, paris",
     "description":"website entwicklung",
-    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068197502110674995/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__1f039058-da3c-4372-bf44-fda29abf4fe4.png"},
+    "imageSrc":"/images/portfolio/4_onlyblacklines.png"},
   {
     "id":"5",
     "title":"sercigal architects, lisbon",
     "description":"portfolio konzept",
-    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068201502453280878/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__067e7e90-7ec6-4272-adf9-2f0c11c7eaec.png"},
+    "imageSrc":"/images/portfolio/5_onlyblacklines.png"},
   {
     "id":"6",
     "title":"LX4m, chicago",
     "description":"web entwicklung",
-    "imageSrc":"https://cdn.discordapp.com/attachments/1043216586196123699/1068201468332605440/onlyblacklines_beautiful_website_for_architecture_office_ux_ui__34463f58-0020-4651-b32a-70434a0a5ba8.png"}],
+    "imageSrc":"/images/portfolio/6_onlyblacklines.png"}],
 
 "services":[
   {

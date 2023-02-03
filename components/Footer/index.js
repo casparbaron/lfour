@@ -18,7 +18,7 @@ const Footer = ({}) => {
             </h1>
             <Button type="primary">jetzt unverbindlich termin vereinbaren</Button>
             <div className="mt-10">
-              <Socials />
+              {/*<Socials />*/}
             </div>
           </div>
         </div>
