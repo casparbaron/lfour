@@ -10,7 +10,7 @@ import Head from "next/head";
 import Button from "../components/Button";
 import Link from "next/link";
 import Cursor from "../components/Cursor";
-import Thing from "../components/Thing";
+
 
 // Local Data
 import data from "../data/portfolio.json";
@@ -55,7 +55,7 @@ export default function Home() {
       <Head>
         <title>{data.name}</title>
       </Head>
-
+      
       
 
       <div className="gradient-circle"></div>
